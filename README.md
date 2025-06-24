@@ -33,7 +33,7 @@ measurement\_app/
    ```bash
    git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
    cd REPO_NAME
-````
+
 
 2. **Create & activate a Python virtual environment**
 
