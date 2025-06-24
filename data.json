@@ -1,0 +1,10 @@
+[
+  {
+    "voltage": 2.0,
+    "current": 4.0
+  },
+  {
+    "voltage": 4.0,
+    "current": 2.0
+  }
+]
